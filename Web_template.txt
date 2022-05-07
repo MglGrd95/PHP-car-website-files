@@ -1,0 +1,4 @@
+A website template is pre-design layouts that allow you to arrange cintent onto a webpage to create a simple
+and well designed website, you can drag and drop elements like images, blocks and logos into the template
+to make it your own. It helps to make a website and produce pages at a fast speed and maintain the look
+of the website for as long as the user needs it.
